@@ -14,3 +14,4 @@ Correct answer increases total score by 1.
  Wrong answer or answering after time limit decreases total score by 0.5.
 When one of the clients score 5 points, he is declared as the winner and game terminates.
 Game continues till all the 35 questions are asked.
+Thank you
